@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+hs_err_pid*
+replay_pid*
+
+server/src/main/resources/static/Wikipedia_topics/Wikipedia_topics
+server/src/main/resources/static/IndexedDocuments/
+server/src/main/resources/static/Documents/
+server/src/main/resources/static/IndexedDocuments/segments_1
+
+*.cfe
+*.cfs
+*.si
+
+client/node_modules/

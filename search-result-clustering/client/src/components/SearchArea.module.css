@@ -1,0 +1,6 @@
+.SearchArea {
+  padding-top: 15rem;
+  flex: 3;
+  border-right: 2px black solid;
+  overflow: auto;
+}

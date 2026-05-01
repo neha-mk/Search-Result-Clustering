@@ -1,0 +1,7 @@
+.VisualisationArea {
+  flex: 4;
+  /* border: 1px solid #ccc; */
+  /* background-color: rgb(21, 118, 175); */
+  padding-top: 5rem;
+  overflow: auto;
+}
